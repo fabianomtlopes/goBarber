@@ -10,4 +10,4 @@
  package.json
  yarn-error.log
  yarn.log
-
+.env
